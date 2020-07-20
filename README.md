@@ -13,3 +13,6 @@ In Design-2:
 * 3 separate production lines (for largest, middle, and smallest boxes) should be designed to match the dimenssions of the boxes. 
 * In the first two lines, a hole should be made. Since the first line was designed for the largest boxes, with 30x30x30 dimenssions, a middle hole size for the 20x20x20 boxes should be created. This part would allow even the smallest boxes to pass through in which they can pass to the third production line via the second hole. 
 * Large storage boxes should be placed at the end of each production line. 
+
+
+Various considerations should be taken into account while designing this in Cinema 4D, which will be explained in details later after submitting the actual design. 
