@@ -15,7 +15,7 @@ In Design-2:
 * Large storage boxes should be placed at the end of each production line. 
 * All storage boxes can be placed on a movable cart with 3 floors for easier movement.
 * Another way: All this can be done using only one line production which helps reduce number of components and save time. The file named (AnotherWay) demonstrates that. 
-* Another way: The line production could be designed in a way that it shrinks gradually so that the largest box will not be able to go all the way to the end. This can be seen in file named Way2.
+* Another way: The line production could be designed in a way that it shrinks gradually so that the largest box will not be able to go all the way to the end but instead will be placed on its storage bag. This can be seen in file named Way2.
 
 
 Various considerations should be taken into account while designing Design-2 in Cinema 4D:
