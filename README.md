@@ -14,6 +14,7 @@ In Design-2:
 * In the first two lines, a hole should be made. Since the first line was designed for the largest boxes, with 30x30x30 dimenssions, a middle hole size for the 20x20x20 boxes should be created. This part would allow even the smallest boxes to pass through in which they can pass to the third production line via the second hole. 
 * Large storage boxes should be placed at the end of each production line. 
 * All storage boxes can be placed on a movable cart with 3 floors for easier movement.
+Another way: All this can be done using only one line production which helps reduce number of components and save time. The file named (AnotherWay) demonstrates that. 
 
 
 Various considerations should be taken into account while designing Design-2 in Cinema 4D:
