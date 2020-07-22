@@ -10,10 +10,12 @@ In Design-1:
 
 
 In Design-2: 
-* 3 separate production lines (for largest, middle, and smallest boxes) should be designed to match the dimenssions of the boxes. 
+* Three separate production lines (for largest, medium, and smallest boxes) should be designed to match the dimenssions of the boxes. 
 * In the first two lines, a hole should be made. Since the first line was designed for the largest boxes, with 30x30x30 dimenssions, a middle hole size for the 20x20x20 boxes should be created. This part would allow even the smallest boxes to pass through in which they can pass to the third production line via the second hole. 
 * Large storage boxes should be placed at the end of each production line. 
 * All storage boxes can be placed on a movable cart with 3 floors for easier movement.
 
 
-Various considerations should be taken into account while designing this in Cinema 4D, which will be explained in details later after submitting the actual design. 
+Various considerations should be taken into account while designing Design-2 in Cinema 4D:
+* Size: 3 big boxes should be placed at the end of each line to collect the movable boxes based on their dimenssions. The holes created in each line production should be larger by 2 cm for smoother and easier movement. The first line, which was designed for the largest boxes, should have a 22x22x22 hole so that the medium and smallest boxes can pass through. 
+* Speed: The speed of each line should match with the movement of the boxes so that the proccess looks like professionally done.  
